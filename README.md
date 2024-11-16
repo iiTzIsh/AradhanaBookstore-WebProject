@@ -113,11 +113,6 @@ Aradhana-Book-Store/
 
 ---
 
-## 🤝 Contributors  
-
-- **Ishara Madusanka** - [GitHub Profile](https://github.com/iiTzIsh)  
-
----
 
 ## 📧 Contact  
 If you have any questions or feedback, feel free to reach out:  
