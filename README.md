@@ -115,12 +115,12 @@ Aradhana-Book-Store/
 
 ## 🤝 Contributors  
 
-- **Ishara Madusanka** - [GitHub Profile](#)  
+- **Ishara Madusanka** - [GitHub Profile](https://github.com/iiTzIsh)  
 
 ---
 
 ## 📧 Contact  
 If you have any questions or feedback, feel free to reach out:  
 - **Email**: hpimadusanka@gmail.com  
-- **GitHub**: [Ishara Madusanka](https://github.com/yourprofile)  
+- **GitHub**: [Ishara Madusanka](https://github.com/iiTzIsh)  
 
