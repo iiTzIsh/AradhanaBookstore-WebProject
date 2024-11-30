@@ -59,8 +59,7 @@ Aradhana-Book-Store/
 
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/username/Aradhana-Book-Store.git  
-   cd Aradhana-Book-Store  
+   git clone https://github.com/iiTzIsh/AradhanaBookstore-WebProject.git  
    ```  
 
 2. Install dependencies:  
@@ -78,9 +77,7 @@ Aradhana-Book-Store/
    Create a `.env` file in the `server` directory and add:  
    ```env  
    MONGO_URI=<your-mongodb-connection-string>  
-   JWT_SECRET=<your-secret-key>  
-   EMAIL_USER=<your-email>  
-   EMAIL_PASS=<your-email-password>  
+
    ```  
 
 4. Run the app:  
